@@ -1,10 +1,3 @@
-% --------- DeepMIMO: A Generic Dataset for mmWave and massive MIMO ------%
-% Authors: Umut Demirhan, Abdelrahman Taha, Ahmed Alkhateeb
-% Date: March 17, 2022
-% Goal: Encouraging research on ML/DL for MIMO applications and
-% providing a benchmarking tool for the developed algorithms
-% ---------------------------------------------------------------------- %
-
 function [channel_params,channel_params_BS,BS_loc]=read_raytracing_v2(BS_ID, params, params_inner)
 
 scenario_files = params_inner.scenario_files;
