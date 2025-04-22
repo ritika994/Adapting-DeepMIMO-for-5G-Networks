@@ -17,20 +17,20 @@ The DeepMIMO 5GNR implements a parameterized dataset generation framework for mi
 
 ### Steps
 ```bash
-git clone <repository-url>
+git clone https://github.com/ritika994/Adapting-DeepMIMO-for-5G-Networks.git
 cd DeepMIMO-5G-Beam-Prediction
 # Place Remcom scenario files in ./ray_tracing/O1
 # Place DeepMIMO toolkit in ./DeepMIMO
 ```
 ## Contributors
 
-- Ritika
+- Ritika  202211074
 
-- Aninda Paul
+- Aninda Paul 202211002
 
-- Ayush Kumar
+- Ayush Kumar 202211008
 
-- Ved Prakash Meena
+- Ved Prakash Meena 202211096
 
 ## Acknowledgments
 
