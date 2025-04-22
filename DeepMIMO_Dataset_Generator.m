@@ -1,11 +1,14 @@
 % ----------------- Add the path of DeepMIMO function --------------------%
 addpath('DeepMIMO_functions')
 
+
 % -------------------- DeepMIMO Dataset Generation -----------------------%
 % Load Dataset Parameters
 dataset_params = read_params('parameters.m');
 [DeepMIMO_dataset, dataset_params] = DeepMIMO_generator(dataset_params);
 size(DeepMIMO_dataset{1}.user{1}.channel)
+
+
 
 % -------------------------- Output Examples -----------------------------%
 % DeepMIMO_dataset{i}.user{j}.channel % Channel between BS i - User j
@@ -23,6 +26,8 @@ size(DeepMIMO_dataset{1}.user{1}.channel)
 % DeepMIMO_dataset{i}.basestation{j}.loc
 % DeepMIMO_dataset{i}.basestation{j}.LoS_status
 %
+
+
 % -------------------------- Dynamic Scenario ----------------------------%
 %
 % DeepMIMO_dataset{f}{i}.user{j}.channel % Scene f - BS i - User j
