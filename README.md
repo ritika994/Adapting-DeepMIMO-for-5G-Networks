@@ -22,7 +22,7 @@ cd DeepMIMO-5G-Beam-Prediction
 # Place Remcom scenario files in ./ray_tracing/O1
 # Place DeepMIMO toolkit in ./DeepMIMO
 ```
-### Contributors
+## Contributors
 
 - Ritika
 
@@ -32,7 +32,7 @@ cd DeepMIMO-5G-Beam-Prediction
 
 - Ved Prakash Meena
 
-### Acknowledgments
+## Acknowledgments
 
 - We thank the original DeepMIMO authors for their open dataset framework and Remcom for Wireless InSite. We also acknowledge the guidance of Dr. Bhupendra Kumar for his invaluable guidance and support throughout this project
 
