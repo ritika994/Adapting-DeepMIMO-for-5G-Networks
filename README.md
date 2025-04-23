@@ -51,15 +51,15 @@ cd DeepMIMO-5G-Beam-Prediction
 ## Results
 
 ### 1. Dataset Generation Output
-![Dataset Generation Log](results/dataset_generation.png)
+![Dataset Generation Log](/dataset_generation.png)
 *Figure 1: MATLAB console output showing the DeepMIMO dataset construction progress and the final dataset dimensions.*
 
 ### 2. Path Parameters Structure
-![Path Parameters Struct](results/path_params.png)
+![Path Parameters Struct](path_params.png)
 *Figure 2: `DeepMIMO_dataset{3}.user{1}.path_params` struct detailing angles, delays, power, and other ray-tracing path parameters.*
 
 ### 3. OFDM Response & UE Position Plots
-![OFDM and Position Plots](results/ofdm_userposition.png)
+![OFDM and Position Plots](/ofdm_userposition.png)
 *Figure 3: (Left) OFDM channel magnitude response (surface and heatmap). (Right) Base station (blue circle) and user (red cross) positions with user velocity vectors.*
 
 ## Contributors
