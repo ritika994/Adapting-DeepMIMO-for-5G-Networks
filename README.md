@@ -69,5 +69,5 @@ cd DeepMIMO-5G-Beam-Prediction
 - Ved Prakash Meena
 
 ## Acknowledgments
-We thank the original DeepMIMO authors for their open dataset framework and Remcom for Wireless InSite. We also acknowledge the guidance of our instructors in the EC431 course at IIIT Vadodara.
+We thank the original DeepMIMO authors for their open dataset framework and Remcom for Wireless InSite. We also acknowledge the guidance of Dr. Bhupender Kumar in the EC431 course at IIIT Vadodara.
 
